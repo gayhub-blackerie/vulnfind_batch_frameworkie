@@ -16,8 +16,7 @@ py -3 vulnfind_batch_frameworkie.py url.txt
 The vuln address will be displaied in the "results.txt"
 然后 有漏洞的地址 将会 通过 “results.txt” 展示出来。
 
-The format in the "url.txt" should be like this:
-url.txt 里的格式应该如这样：
+The format in the "url.txt" should be like this, one a address a line :
+url.txt 里的格式应该如这样, 一个地址一行
 
 192.168.0.1:88
-https://192.168.0.2:80
